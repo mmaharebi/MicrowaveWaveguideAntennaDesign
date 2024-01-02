@@ -1,0 +1,17 @@
+
+hpeesofsim (*) 550.update0.1 Aug 21 2021, MINT version 5
+    (64-bit windows built: Fri Aug 20, 2021 18:45:04 +0000)
+
+
+***** Simulation started at Sat May 14 21:35:09 2022
+      Running on host: "DESKTOP-M63ASI7"
+      In Directory: "C:\Users\Mahdi\Documents\ADS\mlab_project1_wrk\data"
+      Process ID: 13544
+
+
+SP SP1[1] <mlab_project1_lib:cell_1:schematic>   freq=(8 GHz->12 GHz)
+
+
+Resource usage:
+  Total stopwatch time     =     3.88 seconds.
+
